@@ -6,15 +6,15 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "JOY-BOT",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100065050393649",
+    "100092456114947"
   ],
   "ADMINBOT": [
-    "100000959749712",
-    ""
+    "100065050393649",
+    "100092456114947"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
