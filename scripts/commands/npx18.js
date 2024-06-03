@@ -30,7 +30,7 @@ const media = (
 				attachment: media
 			}
 			api.sendMessage( msg, threadID, messageID);
-    api.setMessageReaction("💔", event.messageID, (err) => {}, true)
+    api.setMessageReaction("🥶", event.messageID, (err) => {}, true)
 		}
 	},
 	start: function({ nayan }) {
