@@ -7,7 +7,7 @@
   "notification": true,
   "approval": false,
   "BOTNAME": "JOY-BOT",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "OPERATOR": [
     "100065050393649",
     "100003915536329"
