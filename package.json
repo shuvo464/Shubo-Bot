@@ -1,5 +1,5 @@
 {
-    "name": "NAYAN-BOT",
+    "name": "BABU SHEIKH-BOT",
     "version": "5.2.1",
     "description": "simple messenger bot",
     "main": "",
@@ -8,7 +8,7 @@
         "login": "node login",
         "test": "node --trace-warnings --use_strict --async-stack-traces main"
     },
-    "author": "Nayan",
+    "author": "BABU",
     "license": "GPL-3.0",
     "dependencies": {
         "aes-js": "latest",
