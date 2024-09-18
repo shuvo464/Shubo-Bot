@@ -66,15 +66,15 @@ APPROVAL ALLOW IN THIS GROUP!!!
 <------------------------------>
 AND FOR ANY COMPLAINTS OR CONTACT BOT OPERATOR 
 
-ADMIN :MD JUBAED AHMED JOY 
+ADMIN :MOHAMMAD BABU SHEIKH 
 
 🟣Facebook Account Link: 
 
-https://www.facebook.com/mdjubaet.ahmed.9
+https://www.facebook.com/profile.php?id=100075851615936
 
-🔵WHATSAPP NUMBER: wa.me/+8801709045888
+🔵WHATSAPP NUMBER: wa.me/01796061124
 
-🟢SUPPORT EMAIL: www.mdjubaetahmed124@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
+🟢SUPPORT EMAIL: www.Babu420@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
   }})
 .catch(error => {
     console.error(error);
@@ -106,8 +106,8 @@ https://www.facebook.com/mdjubaet.ahmed.9
         let avtAnime = (await axios.get(encodeURI(
           `https://graph.facebook.com/${event.logMessageData.addedParticipants[o].userFbId}/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`), { responseType: "arraybuffer" })).data;
         var ok = [
-          'https://i.imgur.com/dDSh0wc.jpeg',
-          'https://i.imgur.com/UucSRWJ.jpeg',
+          '[1726164083941.jpg](https://postimg.cc/p9YpVCgc)',
+          'htthttps://postimg.cc/p9YpVCgc.jpeg',
           'https://i.imgur.com/OYzHKNE.jpeg',
           'https://i.imgur.com/V5L9dPi.jpeg',
           'https://i.imgur.com/M7HEAMA.jpeg'
