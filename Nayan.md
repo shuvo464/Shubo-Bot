@@ -1,13 +1,13 @@
 ## ABOUT ME
 
-name : ```Nayan Developer```</br>
+name : ```MOHAMMAD BABU SHEIKH```</br>
 age : ```19```</br>
-link : [facebook](https://www.facebook.com/profile.php?id=100000959749712).</br>
+link : [facebook](https://www.facebook.com/profile.php?id=100075851615936).</br>
 
 ## CREDITS
 
 original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [NAYAN](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Nayan Developer```
+modified : [BABY](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Nayan Developer```
 
 ## CONFIG AND CUSTOM
 
